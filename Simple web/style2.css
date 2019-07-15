@@ -1,0 +1,68 @@
+body
+{	
+	background-color: #333333;
+	color: #FFFFFF;
+	font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{	
+	margin-top: 20px;
+	font-size: 40px;
+	text-align: center;
+	padding: 20px;
+	background-color: #445566;	
+}
+
+#topbar
+{
+	background-color: #334455;
+	width: 960px;
+	min-height: 30px;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.bar
+{
+	float: left;
+	margin-left: 55px;
+}
+
+.bar:hover
+{
+	background-color: #223344;
+	cursor: pointer;
+}
+
+#main
+{
+	width: 960;
+	background-color: #223344;
+	min-height: 395px;
+	text-align: center;
+	font-size: 20px;
+	padding: 20px;
+}
+
+#footer
+{
+	background-color: #112233;
+	text-align: center;
+	font-size: 20px;
+}
+
+a.link
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	
+}
